@@ -1,7 +1,7 @@
 baseURL: https://kamelotmani.github.io/
 
 languageCode: en-us
-title: "Kamel Otmani Landal's Blog"
+title: "Kamel Otmani Landal"
 theme: "toha"
 
 # Manage languages
@@ -29,7 +29,6 @@ outputs:
 # Enable global emoji support
 enableEmoji: true
 
-
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
@@ -47,16 +46,8 @@ params:
   # You can also hide it from the footer.
   newsletter:
     # specify whether you want to display the newsletter form 
-    enable: false
+    enable: true
     # specify which newsletter provider you want to use
-    # provider: mailchimp
-    # # specify the target URL for the subscription form
-    # mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
-    
-  #images 
-  background: "images/background.jpg"
-
-  logo:
-    main: images/author.jpg
-    # inverted: images/author_inv.jpg
-    # favicon: images/favicon.png
+    provider: mailchimp
+    # specify the target URL for the subscription form
+    mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e

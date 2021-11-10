@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Eating
+  logo: "images/skills/eating.png"
+  summary: "Capable of eating anything."
+
+- name: C++
+  logo: "images/skills/c++.svg"
+  summary: "Know intermediate C/C++ programming. Used for contest programming and problem solving."
+  
+- name: Python
+  logo: "images/skills/python.png"
+  summary: "Pssss ..."
