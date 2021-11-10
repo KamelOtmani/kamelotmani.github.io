@@ -1,0 +1,76 @@
+body {
+  background-color: black;
+  /* font-family:'consolas'; */
+  /* font-style: ; */
+  color: #ffffff;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-attachment: fixed;
+  background-position: center;
+  transform: scale(-1.1);
+  filter: blur(1.5px);
+  background-size: cover;
+}
+
+/* top bar */
+.final-navbar {
+    background-color: #0b152a;
+    color: #414447;
+}
+
+/* transparent */
+.initial-navbar .navbar-brand {
+    color: #424950;
+    font-weight: 600;
+}
+/* opaque */
+.final-navbar .navbar-brand {
+    color: #c0c0c0;
+    font-weight: 600;
+}
+
+.bg-white {
+  background-color: #0b152a !important;
+}
+
+.bg-dimmed {
+  background-color: #090d16;
+}
+
+/* skills cards bg */
+.card {
+  background-color: black;
+}
+
+/* skills cards header */
+.skills-section .card .card-head {
+  background-color: #0b152a;
+}
+
+/* education card bg */
+table {
+  background-color: #0b152a;
+}
+
+/* Selected education "card */
+tbody tr:nth-child(odd) {
+  background-color: #1e232e;
+}
+
+/* Projects cards */
+.projects-section .card .card-header {
+  background-color: #1a2336;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #ffffff;
+}
