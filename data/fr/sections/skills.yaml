@@ -1,0 +1,76 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: C++
+    logo: "images/skills/c++.svg"
+    summary: "Know intermediate C/C++ programming. Used for contest programming and problem solving."
+
+  - name: Python
+    logo: "images/skills/python.png"
+    summary: "Pssss ..."
+
+  - name: Numpy
+    logo: "images/skills/numpy.png"
+    summary: "numbers go *brrrrrrr* ..."
+
+  - name: MATLAB
+    logo: "images/skills/matlab.png"
+    summary: "*maths* lab ..."
+
+  - name: SolidWorks
+    logo: "images/skills/solidworks.png"
+    summary: "CAD."
+
+  - name: CatiaV5
+    logo: "images/skills/catia.png"
+    summary: "CAD."
+
+  - name: Patran
+    logo: "images/skills/patran.png"
+    summary: "*cries in agony* ..."
+
+  - name: Adams
+    logo: "images/skills/adams.png"
+    summary: "EZ Clap multibody physics."
+
+  - name: Comsol
+    logo: "images/skills/comsol.png"
+    summary: "CFD go *brrrrrrrrr*"
+    
+  - name: Unreal
+    logo: "images/skills/unreal.png"
+    summary: "*look at those graphics ...* everyone said .."
+
+  - name: Unity
+    logo: "images/skills/unity.png"
+    summary: "2d games go *brrrrrrrr*."
+
+  - name: Tensorflow
+    logo: "images/skills/tensorflow.png"
+    summary: "AI go *brrrrrrrr*."
+
+  - name: Photoshop
+    logo: "images/skills/photoshop.png"
+    summary: "photo editing *brrrrrrrr*."
+
+  - name: Blender
+    logo: "images/skills/blender.png"
+    summary: "it's free, use it."
+
+  - name: ANSYS
+    logo: "images/skills/ansys.png"
+    summary: "*uploading new skill*\n
+
+     ███░░░░░░░░░ 25% complete."
+
+

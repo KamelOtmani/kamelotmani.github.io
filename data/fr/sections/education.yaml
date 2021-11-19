@@ -1,0 +1,118 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master II Mécanique - Modélisation et application en mécanique 
+  icon: fa-university
+  timeframe: 2021-2022
+  institution:
+    name: Université Claude Bernard Lyon 1
+    url: "https://www.univ-lyon1.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    # showGrades: true
+    courses:
+    - name: "Physique Et Modélisation Des Écoulements Turbulents"
+    - name: Mécanique Non-Linéaire Des Structures
+    - name: Méthodes Numériques Avancées En Mécanique
+    - name: "Utilisation De Codes Industriel : Patran"
+    - name: "Utilisation De Codes Industriel : Adams"
+    - name: "Utilisation De Codes Industriel : Fluent"
+    - name: "Mécanique des fluides et tunnels routiers"
+    - name: "Transports et leurs impact sur l'environement"
+    - name: "Dynamique rapide"
+    - name: "Ecoulement diphasiques"
+
+- name: Master I Mécanique 
+  icon: fa-university
+  timeframe: 2020-2021
+  institution:
+    name: Université Claude Bernard Lyon 1
+    url: "https://www.univ-lyon1.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    # showGrades: true
+    courses:
+    - name: "Méthodes des éléments finis pour la mécanique"
+    - name: Vibration des structures
+      achieved: 3.75
+      outOf: 4
+    - name: Mécanique des structures
+      achieved: 3.80
+      outOf: 4
+    - name: Mécanique des fluides et enérgetique
+      achieved: 3.5
+      outOf: 4
+    - name: "Méthodes Numériques : Differences finis"
+      achieved: 3.75
+      outOf: 4
+    - name: "Mécanique des milieux continues"
+    - name: "Mécanique des fluides approfondis : Turbomachines"
+    - name: "Ateliers Numériques & CAO"
+      # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.6
+  #   outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #   url: "#"
+
+- name: Licence Ingénierie Mécanique 
+  icon: fa-university
+  timeframe: 2018-2020
+  institution:
+    name: Université Claude Bernard Lyon 1
+    url: "https://www.univ-lyon1.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    # showGrades: true
+    courses:
+    - name: "CAO"
+    - name: Méchanismes
+    - name: Mécanique des fluides
+    - name: Méthodes numériques
+    # - name: Méthodes numériques
+
+- name: Licence mécanique des chantiers petrolier
+  icon: fa-graduation-cap
+  timeframe: 2015-2018
+  institution:
+    name: Université M'hamed Bouguerra - Boumerdess
+    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Fabrication mécanique
+      achieved: 3.75
+      outOf: 4
+    - name: Maintenance des equipement
+      achieved: 3.80
+      outOf: 4
+    - name: Elements moteurs & turbomachines
+      achieved: 3.5
+      outOf: 4
+    - name: Mécanique des fluides
+
+- name: Baccalaureat Serie Technique mathématique- Génie mécanique
+  icon: fa-school
+  timeframe: 2013-2015
+  institution:
+    name: Thechnicum Ibn Al-Haithem 
+    url: "#"
+  grade: #(optional)
+    scale: Mention
+    achieved: 15.86
+    outOf: 20

@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hide:Title: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Université de Lyon 1.
+    # url: "https://www.example.com"
+    location: Lyon 1
+    overview: Conception d’un canon à vortex.
+  positions:
+  - designation: Travaux d'Étude & de Recherche
+    start: Avril 2020
+    end: Juin 2020
+    responsibilities:
+    - Dimensionnement et Conception du prototype (CAO)
+    - Etude de la dynamique des anneaux tourbillonnaire
+
+- company:
+    name: Université de Lyon 1.
+    # url: "https://www.example.com"
+    location: Lyon 1
+    overview: Conception d'un moteur sterling.
+  positions: 
+  - designation: Projet Tuteuré
+    start: Avril 2020
+    end: Juin 2020
+    responsibilities:
+    - Etude Thermodynamique et Cinématique.
+    - Dimensionnement d’un moteur type Gamma.
+    - Conception du prototype (CAO).
+
+- company:
+    name: ENTP - Groupe SONATRACH.
+    # url: "https://www.example.com"
+    location: Ghardaia, Algérie
+    # company overview
+    overview: "ENTP, ou Entreprise National des Travaux aux Puit est une fillale du groupe SONATRACH qui assure des service de forage d'exploration et d'exploitation avec un parc de plus de 60 d'apareils de forage de toutes catégories 
+    , le stage consitait"
+  positions:
+  - designation: Stage de fin de cycle Licence
+    start: Dec 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Jan 2018
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Inspections et réparations d’équipements
+    - Maintenance
+    - Etude d’optimisation
+
+
