@@ -1,7 +1,8 @@
 baseURL: https://kamelotmani.github.io/
 
 languageCode: en-us
-title: "Kamel Otmani Landal's Blog"
+# languageCode: fr-fr
+title: "Kamel Otmani Landal"
 theme: "toha"
 
 # Manage languages
@@ -40,7 +41,7 @@ params:
   gitBranch: setup-hugo
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

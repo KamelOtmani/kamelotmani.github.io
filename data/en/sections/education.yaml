@@ -10,80 +10,66 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Bachelor in mechanical engineering 
-  icon: fa-microscope
-  timeframe: 2016-2020
+- name: "Master of Science of Mechanical Engineering : modeling and applications in mechanics"
+  icon: fa-university
+  timeframe: 2021-2022
   institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  # publications: #(optional)
-  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  #   url: "#"
-  # - title: Fusce eu augue ut odio porttitor pulvinar.
-  #   url: "#"
-  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-  #   url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
-  institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    name: University of Lyon 1
+    url: "https://www.univ-lyon1.fr/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    # showGrades: true
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
+    - name: "Physics of turbulent flow"
+    - name: "Non-linear structural mechanics"
+    - name: "Advanced numerical methods"
+    - name: "Industriel Software : MSC Patran & MSC Adams & Fluent"
+    - name: "Fluid mechanics"
+    - name: "Finite elements method & analysis"
+    - name: "Continuum mechanics"
+    - name: "CAD : CatiaV5 & Solidworks"
+
+- name: "Bachelor of Science: Mechanical Engineering"
+  icon: fa-university
+  timeframe: 2018-2020
+  institution:
+    name: University of Lyon 1
+    url: "https://www.univ-lyon1.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    # showGrades: true
+    courses:
+    - name: "CAD : CatiaV5"
+    - name: "Dynamical systems"
+    - name: "Fluid mechanics"
+    # - name: Méthodes numériques
+    # - name: Méthodes numériques
+
+- name: "Bachelor of Science: Petroleum Engineering"
+  icon: fa-graduation-cap
+  timeframe: 2015-2018
+  institution:
+    name: University of Boumerdess
+    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: "Maintenance"
       achieved: 3.80
       outOf: 4
-    - name: Operating System
+    - name: Elements moteurs & turbomachines
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    - name: Fluid Mechanics
+
+# - name: Baccalaureat Serie Technique mathématique- Génie mécanique
+#   icon: fa-school
+#   timeframe: 2013-2015
+#   institution:
+#     name: Thechnicum Ibn Al-Haithem 
+#     url: "#"
+#   grade: #(optional)
+#     scale: Mention
+#     achieved: 15.86
+#     outOf: 20

@@ -13,64 +13,136 @@ section:
 skills:
   - name: C++
     logo: "images/skills/c++.svg"
-    summary: "Know intermediate C/C++ programming. Used for contest programming and problem solving."
+    summary: "Intermediate level in C/C++ programming. Used for writing high performance and efficient calculations and for programming native graphical interface.
+
+    \n **Level** :⚫⚫⚫⚪"
+    
+    # \n **Hours** : 30h
 
   - name: Python
     logo: "images/skills/python.png"
-    summary: "Pssss ..."
+    summary: "Advanced Level, proficient in writing scripts and Jupyter notebooks, as well as developping graphical interfaces for fast prototyping purposes, also familar with a wide range of OpenSource Libraries
+
+    \n **Level** :⚫⚫⚫⚫"
+    
+    # \n **Hours** : 30h
 
   - name: Numpy
     logo: "images/skills/numpy.png"
-    summary: "numbers go *brrrrrrr* ..."
+    summary: "Experienced in writing high performant and highly vectorized Numpy code for problem solving.
+
+    \n **Level** :⚫⚫⚫⚪"
+    
+    # \n **Hours** : 30h
+
+  - name: Scikit-learn
+    logo: "images/skills/scikit-learn.png"
+    summary: "Experience with designing AI models in this opensource Python library?
+
+    \n **Level** :⚫⚫⚪⚪"
+    
+    # \n **Hours** : 30h
+
+  - name: Scipy
+    logo: "images/skills/scipy.png"
+    summary: "Open source Python library focussing on scientific computing.
+
+    \n **Level** :⚫⚫⚫⚪"
+    
+    # \n **Hours** : 30h
 
   - name: MATLAB
     logo: "images/skills/matlab.png"
-    summary: "*maths* lab ..."
+    summary: "Familair with basic Matlab scripting and have some experience with the Simulink Toolbox.
+
+    \n **Level** :⚫⚫⚪⚪"
+    
+    # \n **Hours** : 30h
 
   - name: SolidWorks
     logo: "images/skills/solidworks.png"
-    summary: "CAD."
+    summary: "Advanced Level in 3D modeling and assembly
+    
+    \n **Hours** : 80h
 
-  - name: CatiaV5
+    \n **Level** :⚫⚫⚫⚪"
+
+  - name: CATIAV5
     logo: "images/skills/catia.png"
-    summary: "CAD."
+    summary: "Advanced Level in Generative shape design (surface) and classique (Volumetric) design, drafting, assembly.
+    
+    \n **Hours** : +100h
 
-  - name: Patran
+    \n **Level** :⚫⚫⚫⚫"
+
+  - name: MSC Patran
     logo: "images/skills/patran.png"
-    summary: "*cries in agony* ..."
+    summary: "FEM Structural and vibration simulation and analysis, familiar with meshing and NASTRAN Solvers.
+    
+    \n **Hours** : 36h
 
-  - name: Adams
+    \n **Level** :⚫⚫⚪⚪"
+
+  - name: MSC Adams
     logo: "images/skills/adams.png"
-    summary: "EZ Clap multibody physics."
+    summary: "Intermediate level,Multibody physics simulation software,familiar with optimization problems and scripting.
+    
+    \n **Hours** : 32h
+
+    \n **Level** :⚫⚫⚫⚫"
 
   - name: Comsol
     logo: "images/skills/comsol.png"
-    summary: "CFD go *brrrrrrrrr*"
+    summary: "CFD and mutliphysics finite elements simulation software, meshing and analysis.
     
+    \n **Hours** : 15h
+
+    \n **Level** :⚫⚫⚫⚪"
+
   - name: Unreal
     logo: "images/skills/unreal.png"
-    summary: "*look at those graphics ...* everyone said .."
+    summary: "Familiar using Unreal Engine as a High fidelity real-time 3D visualisation tool and in VR, using C++ & Blueprints.
+    
+    \n **Hours** : +100h
+
+    \n **Level** :⚫⚫⚫⚫"
 
   - name: Unity
     logo: "images/skills/unity.png"
-    summary: "2d games go *brrrrrrrr*."
+    summary: "2D and 3D fast visualisations,using C# and HLSL.
+    
+    \n **Hours** : +60h
+
+    \n **Level** :⚫⚫⚫⚪"
 
   - name: Tensorflow
     logo: "images/skills/tensorflow.png"
-    summary: "AI go *brrrrrrrr*."
+    summary: "OpenSource High performance AI and Neural networks, familiar with the python bindings, as well as the Keras library.
+
+    \n **Level** :⚫⚫⚪⚪"
+    
+    # \n **Hours** : 30h
 
   - name: Photoshop
     logo: "images/skills/photoshop.png"
-    summary: "photo editing *brrrrrrrr*."
+    summary: "2D Photo Editing and illustration.
+    
+    \n **Hours** : +60h
+
+    \n **Level** :⚫⚫⚫⚪"
 
   - name: Blender
     logo: "images/skills/blender.png"
-    summary: "it's free, use it."
+    summary: "Open source 3D modeling and visualisation software, with Python scripting.
+    
+    \n **Hours** : +90h
 
-  - name: ANSYS
+    \n **Level** :⚫⚫⚫⚫"
+
+  - name: ANSYS-Fluent
     logo: "images/skills/ansys.png"
-    summary: "*uploading new skill*\n
+    summary: "Industry leading CFD and mutltiphysics meshing and solve solution, familiar with Workbench. 
+    
+    \n **Hours** : 40h
 
-     ███░░░░░░░░░ 25% complete."
-
-
+    \n **Level** :⚫⚫⚫⚪"

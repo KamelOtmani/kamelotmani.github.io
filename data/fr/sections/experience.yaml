@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Expérience
   id: experiences
   enable: true
   weight: 3
@@ -17,11 +17,11 @@ experiences:
     overview: Conception d’un canon à vortex.
   positions:
   - designation: Travaux d'Étude & de Recherche
-    start: Avril 2020
-    end: Juin 2020
+    start: Mars 2021
+    end: Juin 2021
     responsibilities:
     - Dimensionnement et Conception du prototype (CAO)
-    - Etude de la dynamique des anneaux tourbillonnaire
+    - Étude de la dynamique des anneaux tourbillonnaire
 
 - company:
     name: Université de Lyon 1.
@@ -33,7 +33,7 @@ experiences:
     start: Avril 2020
     end: Juin 2020
     responsibilities:
-    - Etude Thermodynamique et Cinématique.
+    - Étude Thermodynamique et Cinématique.
     - Dimensionnement d’un moteur type Gamma.
     - Conception du prototype (CAO).
 
@@ -42,8 +42,8 @@ experiences:
     # url: "https://www.example.com"
     location: Ghardaia, Algérie
     # company overview
-    overview: "ENTP, ou Entreprise National des Travaux aux Puit est une fillale du groupe SONATRACH qui assure des service de forage d'exploration et d'exploitation avec un parc de plus de 60 d'apareils de forage de toutes catégories 
-    , le stage consitait"
+    overview: "ENTP, ou Enterprise National des Travaux aux Puits est une filiale du groupe SONATRACH qui assure des service de forage d'exploration et d'exploitation avec un parc de plus de 60 d'appareils de forage de toutes catégories 
+    "
   positions:
   - designation: Stage de fin de cycle Licence
     start: Dec 2017
@@ -53,6 +53,6 @@ experiences:
     responsibilities:
     - Inspections et réparations d’équipements
     - Maintenance
-    - Etude d’optimisation
+    - Étude d’optimisation
 
 

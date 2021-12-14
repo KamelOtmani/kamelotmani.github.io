@@ -7,59 +7,59 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # your designation
-designation: Mechanical Engineer 
+designation: Junior Mechanical Engineer 
 # your company information
 company:
-  name: Space Exploration Inc.
-  url: "https://www.SpaceX.com"
+  name: University of Lyon 1.
+  url: "https://www.univ-lyon1.fr/"
 
 # your resume. this file path should be relative to you "static" directory
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate Jojo fan and CSGO enthusiast'
+summary: 'Master student in final year in mechanical engineering, love working with Python and C++ and passionate about space.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "landa.kamel@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/KamelOtmani"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/kamel-otmani-landal-b7579517a/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/kri3gman"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Sleep
-  percentage: 100
+  name: English
+  percentage: 90
   color: blue
 
 - type: soft-skill-indicator
-  name: Eating
-  percentage: 90
+  name: French
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Gaming
+  name: Arab
   percentage: 100
   color: orange

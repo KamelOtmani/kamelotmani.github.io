@@ -4,7 +4,7 @@ nickname: "Kamel"
 image: "images/author.jpg"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Salut, je m'appel"
+greeting: "Salut, C'est"
 
 # give your contact information. they will be used in the footer
 contactInfo:
@@ -13,8 +13,10 @@ contactInfo:
 
 # a summary of what you do
 summary:
-- Je suis etudiant en 2eme année de master 
+- Je suis étudiant en 2eme année de master 
 - En modélisation et application en mécanique 
-- à l'unniversité de Lyon 1  
+- à l'université de Lyon 1  
+- j'ai un goût du numérique et de la mécanique
+- et des nouvelles technologies
 # - I love to work and game
 # - and sleep hihihihi ...

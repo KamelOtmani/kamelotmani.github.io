@@ -13,64 +13,70 @@ section:
 skills:
   - name: C++
     logo: "images/skills/c++.svg"
-    summary: "Know intermediate C/C++ programming. Used for contest programming and problem solving."
+    summary: "Niveau intermédiaire en C/C++ . utilisé pour les calculs performant ainsi que les programmes graphique natifs"
 
   - name: Python
     logo: "images/skills/python.png"
-    summary: "Pssss ..."
+    summary: "Niveau Avancée en programmation Python, réalisation de plusieurs scripts, notebook Jupyter et programmes graphiques utilisant la bibliothèque Dear PyGui."
 
   - name: Numpy
     logo: "images/skills/numpy.png"
-    summary: "numbers go *brrrrrrr* ..."
+    summary: "Utilisation des tableaux et algorithms pour l'écriture de programmes performants, et utilisation des capacités à vectoriser les algorithms."
+
+  - name: Scikit-learn
+    logo: "images/skills/scikit-learn.png"
+    summary: "Une bibliothèque libre Python destinée à l'apprentissage automatique."
+
+  - name: Scipy
+    logo: "images/skills/scipy.png"
+    summary: "Une bibliothèque libre Python destinée au calculs scientifique, principalement les algorithm utilisé dans les méthodes numérique avancées et les problèmes d'ingénieure."
 
   - name: MATLAB
     logo: "images/skills/matlab.png"
-    summary: "*maths* lab ..."
+    summary: "Réalisation de script et utilisation de la bibliothèque Simulink pour modéliser les systems de control."
 
   - name: SolidWorks
     logo: "images/skills/solidworks.png"
-    summary: "CAD."
+    summary: "Niveau Intermédiaire, Réalisation de models 3D de divers pièces, des mise en plan, assemblage et de la cinématique."
 
-  - name: CatiaV5
+  - name: CATIAV5
     logo: "images/skills/catia.png"
-    summary: "CAD."
+    summary: "Niveau intermédiaire, Modélisation surfacique et volumique, réalisation d'assemblage ainsi que de la cinématique."
 
-  - name: Patran
+  - name: MSC Patran
     logo: "images/skills/patran.png"
-    summary: "*cries in agony* ..."
+    summary: "Simulation de structures en éléments finis en statique, élastoplasticité linéaire et non linéaire"
 
-  - name: Adams
+  - name: MSC Adams
     logo: "images/skills/adams.png"
-    summary: "EZ Clap multibody physics."
+    summary: "Simulation de mécanisme et de système dynamique multi corps, optimisation et réalisation de scripts de simulation."
 
   - name: Comsol
     logo: "images/skills/comsol.png"
-    summary: "CFD go *brrrrrrrrr*"
+    summary: "Simulation multiphysique ; mécanique des fluide et thermique en éléments finis."
     
   - name: Unreal
     logo: "images/skills/unreal.png"
-    summary: "*look at those graphics ...* everyone said .."
+    summary: "Niveau intermédiaire, utilisation pour de la visualisation 3D en temps réel et de la VR, en C++ et en blueprint."
 
   - name: Unity
     logo: "images/skills/unity.png"
-    summary: "2d games go *brrrrrrrr*."
+    summary: "Visualisation en temps réel 2D et 3D, en C# et HLSL."
 
   - name: Tensorflow
     logo: "images/skills/tensorflow.png"
-    summary: "AI go *brrrrrrrr*."
+    summary: "Utilisation des model de réseaux neuronales pour des models d'Intelligence artificielle, utilisation d la bibliothèque Keras."
 
   - name: Photoshop
     logo: "images/skills/photoshop.png"
-    summary: "photo editing *brrrrrrrr*."
+    summary: "Éditeur de photos et utilisé pour faire des illustration."
 
   - name: Blender
     logo: "images/skills/blender.png"
-    summary: "it's free, use it."
+    summary: "Rendu et visualisation 3D."
 
-  - name: ANSYS
+  - name: ANSYS-Fluent
     logo: "images/skills/ansys.png"
-    summary: "*uploading new skill*\n
-
-     ███░░░░░░░░░ 25% complete."
+    summary: "CFD et simulation dans Fluent, maillage dans Fluent Mesher et CAO dans Direct modeler."
 
 
