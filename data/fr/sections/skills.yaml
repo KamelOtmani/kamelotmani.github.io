@@ -15,48 +15,48 @@ skills:
     logo: "images/skills/c++.svg"
     summary: "Niveau intermédiaire en C/C++ . utilisé pour les calculs performant ainsi que les programmes graphique natifs
 
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
 
   - name: Python
     logo: "images/skills/python.png"
     summary: "Niveau Avancée en programmation Python, réalisation de plusieurs scripts, notebook Jupyter et programmes graphiques utilisant la bibliothèque Dear PyGui.
 
-    \n **Level** :⚫⚫⚫⚫"
+    \n **Niveau** :⚫⚫⚫⚫"
 
   - name: Numpy
     logo: "images/skills/numpy.png"
     summary: "Utilisation des tableaux et algorithms pour l'écriture de programmes performants, et utilisation des capacités à vectoriser les algorithms.
 
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
 
   - name: Scikit-learn
     logo: "images/skills/scikit-learn.png"
     summary: "Une bibliothèque libre Python destinée à l'apprentissage automatique.
 
-    \n **Level** :⚫⚫⚪⚪"
+    \n **Niveau** :⚫⚫⚪⚪"
 
   - name: Scipy
     logo: "images/skills/scipy.png"
     summary: "Une bibliothèque libre Python destinée au calculs scientifique, principalement les algorithm utilisé dans les méthodes numérique avancées et les problèmes d'ingénieure.
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
 
   - name: Tensorflow
     logo: "images/skills/tensorflow.png"
     summary: "Utilisation des model de réseaux neuronales pour des models d'Intelligence artificielle, utilisation d la bibliothèque Keras.
 
-    \n **Level** :⚫⚫⚪⚪"
+    \n **Niveau** :⚫⚫⚪⚪"
 
   - name: OpenCV
     logo: "images/skills/opencv.png"
     summary: "Manipulmation et traitement d'images sur python et c++, manipulation en temps réél de flux video (webcam) pour la detection de visages utilisant un modél IA.
 
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
 
   - name: MATLAB
     logo: "images/skills/matlab.png"
     summary: "Réalisation de script et utilisation de la bibliothèque Simulink pour modéliser les systems de control.
 
-    \n **Level** :⚫⚫⚪⚪"
+    \n **Niveau** :⚫⚫⚪⚪"
 
   - name: ANSYS-Fluent
     logo: "images/skills/ansys.png"
@@ -64,7 +64,7 @@ skills:
     
     \n **Hours** : 40h
 
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
 
   - name: Comsol
     logo: "images/skills/comsol.png"
@@ -72,7 +72,7 @@ skills:
     
     \n **Hours** : 30h
 
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
 
   - name: MSC Patran
     logo: "images/skills/patran.png"
@@ -80,7 +80,7 @@ skills:
     
     \n **Hours** : 40h
 
-    \n **Level** :⚫⚫⚪⚪"
+    \n **Niveau** :⚫⚫⚪⚪"
 
   - name: MSC Adams
     logo: "images/skills/adams.png"
@@ -88,7 +88,7 @@ skills:
     
     \n **Hours** : 32h
 
-    \n **Level** :⚫⚫⚫⚫"
+    \n **Niveau** :⚫⚫⚫⚫"
 
   - name: SolidWorks
     logo: "images/skills/solidworks.png"
@@ -96,7 +96,7 @@ skills:
     
     \n **Hours** : 80h
 
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
     
   - name: CATIAV5
     logo: "images/skills/catia.png"
@@ -104,7 +104,7 @@ skills:
     
     \n **Hours** : +100h
 
-    \n **Level** :⚫⚫⚫⚫"
+    \n **Niveau** :⚫⚫⚫⚫"
     
   - name: Unreal
     logo: "images/skills/unreal.png"
@@ -112,7 +112,7 @@ skills:
     
     \n **Hours** : +100h
 
-    \n **Level** :⚫⚫⚫⚫"
+    \n **Niveau** :⚫⚫⚫⚫"
 
   - name: Unity
     logo: "images/skills/unity.png"
@@ -120,7 +120,7 @@ skills:
     
     \n **Hours** : +60h
 
-    \n **Level** :⚫⚫⚫⚪"  
+    \n **Niveau** :⚫⚫⚫⚪"  
 
   - name: Photoshop
     logo: "images/skills/photoshop.png"
@@ -128,7 +128,7 @@ skills:
     
     \n **Hours** : +60h
 
-    \n **Level** :⚫⚫⚫⚪"
+    \n **Niveau** :⚫⚫⚫⚪"
 
   - name: Blender
     logo: "images/skills/blender.png"
@@ -136,6 +136,6 @@ skills:
     
     \n **Hours** : +90h
 
-    \n **Level** :⚫⚫⚫⚫"
+    \n **Niveau** :⚫⚫⚫⚫"
 
 
