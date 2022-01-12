@@ -50,30 +50,45 @@ skills:
     \n **Level** :⚫⚫⚫⚪"
     
     # \n **Hours** : 30h
+  - name: Tensorflow
+    logo: "images/skills/tensorflow.png"
+    summary: "OpenSource High performance AI and Neural networks, familiar with the python bindings, as well as the Keras library.
+
+    \n **Level** :⚫⚫⚪⚪"
+    
+    # \n **Hours** : 30h
+
+  - name: OpenCV
+    logo: "images/skills/opencv.png"
+    summary: "Image manipulation and processing, used the c++ library and the python bindings for processing live video feed (webcam) for face recognition using an AI model.
+
+    \n **Level** :⚫⚫⚫⚪"
+
+
 
   - name: MATLAB
     logo: "images/skills/matlab.png"
     summary: "Familair with basic Matlab scripting and have some experience with the Simulink Toolbox.
 
     \n **Level** :⚫⚫⚪⚪"
+
+  - name: ANSYS-Fluent
+    logo: "images/skills/ansys.png"
+    summary: "Industry leading CFD and mutltiphysics meshing and solve solution, familiar with Workbench. 
+    
+    \n **Hours** : 40h
+
+    \n **Level** :⚫⚫⚫⚪"
     
     # \n **Hours** : 30h
 
-  - name: SolidWorks
-    logo: "images/skills/solidworks.png"
-    summary: "Advanced Level in 3D modeling and assembly
+  - name: Comsol
+    logo: "images/skills/comsol.png"
+    summary: "CFD and mutliphysics finite elements simulation software, meshing and analysis.
     
-    \n **Hours** : 80h
+    \n **Hours** : 30h
 
     \n **Level** :⚫⚫⚫⚪"
-
-  - name: CATIAV5
-    logo: "images/skills/catia.png"
-    summary: "Advanced Level in Generative shape design (surface) and classique (Volumetric) design, drafting, assembly.
-    
-    \n **Hours** : +100h
-
-    \n **Level** :⚫⚫⚫⚫"
 
   - name: MSC Patran
     logo: "images/skills/patran.png"
@@ -91,13 +106,21 @@ skills:
 
     \n **Level** :⚫⚫⚫⚫"
 
-  - name: Comsol
-    logo: "images/skills/comsol.png"
-    summary: "CFD and mutliphysics finite elements simulation software, meshing and analysis.
+  - name: SolidWorks
+    logo: "images/skills/solidworks.png"
+    summary: "Advanced Level in 3D modeling and assembly.
     
-    \n **Hours** : 15h
+    \n **Hours** : 80h
 
     \n **Level** :⚫⚫⚫⚪"
+
+  - name: CATIAV5
+    logo: "images/skills/catia.png"
+    summary: "Advanced Level in Generative shape design (surface) and classique (Volumetric) design, drafting, assembly.
+    
+    \n **Hours** : +100h
+
+    \n **Level** :⚫⚫⚫⚫"
 
   - name: Unreal
     logo: "images/skills/unreal.png"
@@ -115,13 +138,6 @@ skills:
 
     \n **Level** :⚫⚫⚫⚪"
 
-  - name: Tensorflow
-    logo: "images/skills/tensorflow.png"
-    summary: "OpenSource High performance AI and Neural networks, familiar with the python bindings, as well as the Keras library.
-
-    \n **Level** :⚫⚫⚪⚪"
-    
-    # \n **Hours** : 30h
 
   - name: Photoshop
     logo: "images/skills/photoshop.png"
@@ -138,11 +154,3 @@ skills:
     \n **Hours** : +90h
 
     \n **Level** :⚫⚫⚫⚫"
-
-  - name: ANSYS-Fluent
-    logo: "images/skills/ansys.png"
-    summary: "Industry leading CFD and mutltiphysics meshing and solve solution, familiar with Workbench. 
-    
-    \n **Hours** : 40h
-
-    \n **Level** :⚫⚫⚫⚪"

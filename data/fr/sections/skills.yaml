@@ -13,70 +13,129 @@ section:
 skills:
   - name: C++
     logo: "images/skills/c++.svg"
-    summary: "Niveau intermédiaire en C/C++ . utilisé pour les calculs performant ainsi que les programmes graphique natifs"
+    summary: "Niveau intermédiaire en C/C++ . utilisé pour les calculs performant ainsi que les programmes graphique natifs
+
+    \n **Level** :⚫⚫⚫⚪"
 
   - name: Python
     logo: "images/skills/python.png"
-    summary: "Niveau Avancée en programmation Python, réalisation de plusieurs scripts, notebook Jupyter et programmes graphiques utilisant la bibliothèque Dear PyGui."
+    summary: "Niveau Avancée en programmation Python, réalisation de plusieurs scripts, notebook Jupyter et programmes graphiques utilisant la bibliothèque Dear PyGui.
+
+    \n **Level** :⚫⚫⚫⚫"
 
   - name: Numpy
     logo: "images/skills/numpy.png"
-    summary: "Utilisation des tableaux et algorithms pour l'écriture de programmes performants, et utilisation des capacités à vectoriser les algorithms."
+    summary: "Utilisation des tableaux et algorithms pour l'écriture de programmes performants, et utilisation des capacités à vectoriser les algorithms.
+
+    \n **Level** :⚫⚫⚫⚪"
 
   - name: Scikit-learn
     logo: "images/skills/scikit-learn.png"
-    summary: "Une bibliothèque libre Python destinée à l'apprentissage automatique."
+    summary: "Une bibliothèque libre Python destinée à l'apprentissage automatique.
+
+    \n **Level** :⚫⚫⚪⚪"
 
   - name: Scipy
     logo: "images/skills/scipy.png"
-    summary: "Une bibliothèque libre Python destinée au calculs scientifique, principalement les algorithm utilisé dans les méthodes numérique avancées et les problèmes d'ingénieure."
-
-  - name: MATLAB
-    logo: "images/skills/matlab.png"
-    summary: "Réalisation de script et utilisation de la bibliothèque Simulink pour modéliser les systems de control."
-
-  - name: SolidWorks
-    logo: "images/skills/solidworks.png"
-    summary: "Niveau Intermédiaire, Réalisation de models 3D de divers pièces, des mise en plan, assemblage et de la cinématique."
-
-  - name: CATIAV5
-    logo: "images/skills/catia.png"
-    summary: "Niveau intermédiaire, Modélisation surfacique et volumique, réalisation d'assemblage ainsi que de la cinématique."
-
-  - name: MSC Patran
-    logo: "images/skills/patran.png"
-    summary: "Simulation de structures en éléments finis en statique, élastoplasticité linéaire et non linéaire"
-
-  - name: MSC Adams
-    logo: "images/skills/adams.png"
-    summary: "Simulation de mécanisme et de système dynamique multi corps, optimisation et réalisation de scripts de simulation."
-
-  - name: Comsol
-    logo: "images/skills/comsol.png"
-    summary: "Simulation multiphysique ; mécanique des fluide et thermique en éléments finis."
-    
-  - name: Unreal
-    logo: "images/skills/unreal.png"
-    summary: "Niveau intermédiaire, utilisation pour de la visualisation 3D en temps réel et de la VR, en C++ et en blueprint."
-
-  - name: Unity
-    logo: "images/skills/unity.png"
-    summary: "Visualisation en temps réel 2D et 3D, en C# et HLSL."
+    summary: "Une bibliothèque libre Python destinée au calculs scientifique, principalement les algorithm utilisé dans les méthodes numérique avancées et les problèmes d'ingénieure.
+    \n **Level** :⚫⚫⚫⚪"
 
   - name: Tensorflow
     logo: "images/skills/tensorflow.png"
-    summary: "Utilisation des model de réseaux neuronales pour des models d'Intelligence artificielle, utilisation d la bibliothèque Keras."
+    summary: "Utilisation des model de réseaux neuronales pour des models d'Intelligence artificielle, utilisation d la bibliothèque Keras.
 
-  - name: Photoshop
-    logo: "images/skills/photoshop.png"
-    summary: "Éditeur de photos et utilisé pour faire des illustration."
+    \n **Level** :⚫⚫⚪⚪"
 
-  - name: Blender
-    logo: "images/skills/blender.png"
-    summary: "Rendu et visualisation 3D."
+  - name: OpenCV
+    logo: "images/skills/opencv.png"
+    summary: "Manipulmation et traitement d'images sur python et c++, manipulation en temps réél de flux video (webcam) pour la detection de visages utilisant un modél IA.
+
+    \n **Level** :⚫⚫⚫⚪"
+
+  - name: MATLAB
+    logo: "images/skills/matlab.png"
+    summary: "Réalisation de script et utilisation de la bibliothèque Simulink pour modéliser les systems de control.
+
+    \n **Level** :⚫⚫⚪⚪"
 
   - name: ANSYS-Fluent
     logo: "images/skills/ansys.png"
-    summary: "CFD et simulation dans Fluent, maillage dans Fluent Mesher et CAO dans Direct modeler."
+    summary: "CFD et simulation dans Fluent, maillage dans Fluent Mesher et CAO dans Direct modeler.
+    
+    \n **Hours** : 40h
+
+    \n **Level** :⚫⚫⚫⚪"
+
+  - name: Comsol
+    logo: "images/skills/comsol.png"
+    summary: "Simulation multiphysique ; mécanique des fluide et thermique en éléments finis.
+    
+    \n **Hours** : 30h
+
+    \n **Level** :⚫⚫⚫⚪"
+
+  - name: MSC Patran
+    logo: "images/skills/patran.png"
+    summary: "Simulation de structures en éléments finis en statique, élastoplasticité linéaire et non linéaire.
+    
+    \n **Hours** : 40h
+
+    \n **Level** :⚫⚫⚪⚪"
+
+  - name: MSC Adams
+    logo: "images/skills/adams.png"
+    summary: "Simulation de mécanisme et de système dynamique multi corps, optimisation et réalisation de scripts de simulation.
+    
+    \n **Hours** : 32h
+
+    \n **Level** :⚫⚫⚫⚫"
+
+  - name: SolidWorks
+    logo: "images/skills/solidworks.png"
+    summary: "Niveau Intermédiaire, Réalisation de models 3D de divers pièces, des mise en plan, assemblage et de la cinématique.
+    
+    \n **Hours** : 80h
+
+    \n **Level** :⚫⚫⚫⚪"
+    
+  - name: CATIAV5
+    logo: "images/skills/catia.png"
+    summary: "Niveau intermédiaire, Modélisation surfacique et volumique, réalisation d'assemblage ainsi que de la cinématique.
+    
+    \n **Hours** : +100h
+
+    \n **Level** :⚫⚫⚫⚫"
+    
+  - name: Unreal
+    logo: "images/skills/unreal.png"
+    summary: "Niveau intermédiaire, utilisation pour de la visualisation 3D en temps réel et de la VR, en C++ et en blueprint.
+    
+    \n **Hours** : +100h
+
+    \n **Level** :⚫⚫⚫⚫"
+
+  - name: Unity
+    logo: "images/skills/unity.png"
+    summary: "Visualisation en temps réel 2D et 3D, en C# et HLSL.
+    
+    \n **Hours** : +60h
+
+    \n **Level** :⚫⚫⚫⚪"  
+
+  - name: Photoshop
+    logo: "images/skills/photoshop.png"
+    summary: "Éditeur de photos et utilisé pour faire des illustration.
+    
+    \n **Hours** : +60h
+
+    \n **Level** :⚫⚫⚫⚪"
+
+  - name: Blender
+    logo: "images/skills/blender.png"
+    summary: "Rendu et visualisation 3D.
+    
+    \n **Hours** : +90h
+
+    \n **Level** :⚫⚫⚫⚫"
 
 
