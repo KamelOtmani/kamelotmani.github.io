@@ -74,11 +74,20 @@ skills:
 
   - name: ANSYS-Fluent
     logo: "images/skills/ansys.png"
-    summary: "Industry leading CFD and mutltiphysics meshing and solve solution, familiar with Workbench. 
+    summary: "Industry leading CFD and mutltiphysics for meshing and solving, familiar with Workbench. 
     
     \n **Hours** : 40h
 
     \n **Level** :⚫⚫⚫⚪"
+    
+    - name: OpenFOAM
+    logo: "images/skills/openFOAM.png"
+    summary: "OpenFOAM (for "Open-source Field Operation And Manipulation") is an opensource C++ toolbox for the development of customized numerical solvers, and pre-/post-processing utilities for CFD."
+    
+    \n **Hours** : 10h
+
+    \n **Level** :⚫⚫⚪⚪"
+    
     
     # \n **Hours** : 30h
 
