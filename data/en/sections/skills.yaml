@@ -82,7 +82,7 @@ skills:
     
     - name: OpenFOAM
     logo: "images/skills/openFOAM.png"
-    summary: "OpenFOAM (for "Open-source Field Operation And Manipulation") is an opensource C++ toolbox for the development of customized numerical solvers, and pre-/post-processing utilities for CFD."
+    summary: "OpenFOAM (for "Open-source Field Operation And Manipulation") is an opensource C++ toolbox for the development of customized numerical solvers, and pre-/post-processing utilities for CFD.
     
     \n **Hours** : 10h
 
