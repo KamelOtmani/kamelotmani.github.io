@@ -25,7 +25,7 @@ degrees:
     - name: Méthodes Numériques Avancées En Mécanique
     - name: "Utilisation De Codes Industriel : Patran"
     - name: "Utilisation De Codes Industriel : Adams"
-    - name: "Utilisation De Codes Industriel : Fluent"
+    - name: "Utilisation De Codes Industriel : Fluent & OpenFOAM"
     - name: "Mécanique des fluides et tunnels routiers"
     - name: "Transports et leurs impact sur l'environement"
     - name: "Dynamique rapide"

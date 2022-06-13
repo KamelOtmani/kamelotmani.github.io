@@ -23,7 +23,7 @@ degrees:
     - name: "Physics of turbulent flow"
     - name: "Non-linear structural mechanics"
     - name: "Advanced numerical methods"
-    - name: "Industriel Software : MSC Patran & MSC Adams & Fluent"
+    - name: "Industriel Software : MSC Patran, MSC Adams, Fluent & OpenFOAM"
     - name: "Fluid mechanics"
     - name: "Finite elements method & analysis"
     - name: "Continuum mechanics"
