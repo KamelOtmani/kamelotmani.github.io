@@ -66,6 +66,14 @@ skills:
 
     \n **Niveau** :⚫⚫⚫⚪"
 
+  - name: OpenFOAM
+    logo:  "images/skills/openFOAM.png"
+    summary: "Une Toolbox en C++ pour le developement et customization des codes de simulation numérique CFD.
+    
+    \n **Hours** : 10h
+
+    \n **Niveau** :⚫⚫⚪⚪"
+
   - name: Comsol
     logo: "images/skills/comsol.png"
     summary: "Simulation multiphysique ; mécanique des fluide et thermique en éléments finis.

@@ -11,6 +11,23 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: IFP Energies Nouvelles
+    # url: "https://www.example.com"
+    location: Lyon, France
+    overview: Étude expérimentale sur la détection de particules par trajectographie 3D dans des lits fluidisé solide-liquide.
+    positions:
+  - designation: Stage
+    start: Avril 2022
+    end: Septembre 2022
+    responsibilities:
+    - Étude Bibliographique
+    - Développement du code pour le traitement d'image et de la détection de particules en 2D et en 3D sous Python
+    - Optimisation du code et passage au C/C++ pour gagner en performance
+    - Parallélisation du code et de l'algorithme
+    - Développement d'une interface graphique pour faciliter l'utilisation des outils
+    - Rédaction du rapport de stage
+
+- company:
     name: Université de Lyon 1.
     # url: "https://www.example.com"
     location: Lyon 1
