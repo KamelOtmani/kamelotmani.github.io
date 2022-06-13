@@ -15,7 +15,7 @@ experiences:
     # url: "https://www.example.com"
     location: Lyon, France
     overview: Étude expérimentale sur la détection de particules par trajectographie 3D dans des lits fluidisé solide-liquide.
-    positions:
+  positions:
   - designation: Stage
     start: Avril 2022
     end: Septembre 2022
