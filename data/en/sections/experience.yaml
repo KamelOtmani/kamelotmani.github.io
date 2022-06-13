@@ -21,11 +21,11 @@ experiences:
     end: Septembre 2022
     responsibilities:
     - Bibliographic work
-    - Developping of 2D & 3D Image processing & Particle Detection Code in Python
+    - Development of 2D & 3D Image processing & Particle Detection Code in Python
     - Code optimization & migrating the code base to C/C++ to gain performance 
     - Parallelization of the image processing algorithm
-    - Developping a Graphical interface for the set of tools to ease their use
-    - Internship report 
+    - Development of a Graphical interface for the set of tools to ease their use
+    - Internship report redaction
 
 - company:
     name: University of Lyon 1.
