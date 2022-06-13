@@ -11,6 +11,23 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: IFP Energies Nouvelles
+    # url: "https://www.example.com"
+    location: Lyon, France
+    overview: Experimental work on Particle detection & 3D trajectograpy in a liquid-solid fluidized bed.
+  positions:
+  - designation: Internship
+    start: April 2022
+    end: Septembre 2022
+    responsibilities:
+    - Bibliographic work
+    - Developping of 2D & 3D Image processing & Particle Detection Code in Python
+    - Code optimization & migrating the code base to C/C++ to gain performance 
+    - Parallelization of the image processing algorithm
+    - Developping a Graphical interface for the set of tools to ease their use
+    - Internship report 
+
+- company:
     name: University of Lyon 1.
     # url: "https://www.example.com"
     location: Lyon, France
